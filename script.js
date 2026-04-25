@@ -112,7 +112,7 @@ function sendVotingEmail_(email, name) {
 
 Your membership/payment has been verified.
 
-You may now vote between Haris and Azlan using this Google Form:
+You may now vote using this Google Form:
 ${VOTING_FORM_LINK}
 
 Thank you.
